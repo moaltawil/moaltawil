@@ -20,10 +20,6 @@
 * 🌐 You can see some of my projects on (https://play.google.com/store/apps/details?id=edu.altawil.students)
 * 📺 I make tech tutorials on [YouTube](https://www.youtube.com/@Eng_Mohammed/featured)
 
-
-
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/moaltawil?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
-
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
