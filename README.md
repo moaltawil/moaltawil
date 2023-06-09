@@ -109,10 +109,11 @@
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3oB5uDih-WM&t=609s"><img width="140px" src="https://i9.ytimg.com/vi/3oB5uDih-WM/maxresdefault.jpg?v=640bab87&sqp=CPz7i6QG&rs=AOn4CLDyozEkQQEsq5HkWqL20symN-FVsA"></a></td>
 <td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">S-DES مقدمة في التشفير - شرح خوارزمية</a><br/>11 Mar 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s">مقدمة في قواعد البيانات (عملي) - المحاضرة الخامسة</a><br/>Dec 10, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g"><img width="140px" src="https://i.ytimg.com/vi/BVX7kZ4GM-g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BVX7kZ4GM-g">Making a Responsive (Birthday) Card with HTML and CSS</a><br/>Dec 1, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s"><img width="140px" src="https://i9.ytimg.com/vi/iCEOvUfHKH0/mqdefault.jpg?v=63cc50f8&sqp=CKj-i6QG&rs=AOn4CLAgNLX4tP_lWWvRFb8jmctR1pyFUA"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s">مقدمة في قواعد البيانات (عملي) - المحاضرة الخامسة</a><br/>21 Jan 2023</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s"><img width="140px" src="https://i9.ytimg.com/vi_webp/YKE8rq_j-X8/mqdefault.webp?v=63bc3bc7&sqp=CNSAjKQG&rs=AOn4CLDm3kkHCgycbkzCZYDLYYlzxO9NXw"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s">مقدمة في قواعد البيانات (عملي) - المحاضرة الرابعة
+</a><br/>9 Jan 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw"><img width="140px" src="https://i.ytimg.com/vi/gU7b5Vgnalw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">How to Create Custom Snippets for Any Language in VS Code</a><br/>Nov 17, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY"><img width="140px" src="https://i.ytimg.com/vi/5ecM9n7A_pY/mqdefault.jpg"></a></td>
