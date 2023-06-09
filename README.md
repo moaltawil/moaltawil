@@ -36,55 +36,6 @@
   <a href="https://ko-fi.com/jlawrence"><img alt="Ko-fi" title="By me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </p>
 
-<p align="left">
-  <a href="https://stackexchange.com/users/16082556/eyl327">
-    <img src="https://stackexchange.com/users/flair/16082556.png" width="208" height="58" alt="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for DenverCoder1 on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-  </a>
-</p>
-
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-
-<p align="left">
-  <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
-</p>
 
 ## 👨‍💻 Languages and Tools:
 
