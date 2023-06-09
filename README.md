@@ -155,6 +155,3 @@
 
 </details>
 -----
-Credits: [DenverCoder1](https://github.com/DenverCoder1)
-
-Last Edited on: 15/01/2021
