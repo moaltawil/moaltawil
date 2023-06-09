@@ -11,6 +11,17 @@
 * 🌐 You can see some of my projects on (https://play.google.com/store/apps/details?id=edu.altawil.students)
 * 📺 I make tech tutorials on [YouTube](https://www.youtube.com/@Eng_Mohammed/featured)
 
+## 🙋‍♂️ Connect with me:
+<p>
+	<a href="mailto:candida.mhmdaltaweil@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/moaltawil"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/mohameltawil/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/mohammed_eltawil/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.youtube.com/channel/UCf2edv2lcxKk-zuUDKV-N8A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
+	
+</p>
+
 ## 📺 Latest YouTube Videos
 
 <table>
@@ -33,17 +44,6 @@
   </table>
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCf2edv2lcxKk-zuUDKV-N8A)
-
-## 🙋‍♂️ Connect with me:
-<p>
-	<a href="mailto:candida.mhmdaltaweil@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/moaltawil"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mohameltawil/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/mohammed_eltawil/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCf2edv2lcxKk-zuUDKV-N8A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
-</p>
 
 ## 👨‍💻 Languages and Tools:
 
