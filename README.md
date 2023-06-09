@@ -12,6 +12,7 @@
 
 ## 📖 About me
 
+* 💻 I'm a CTO & Founder at Software Pioneers Company
 * 💻 I'm a Flutter developer
 * 🎨 I'm a self-taught UI designer
 * 📱 I make apps for Android and iOS
