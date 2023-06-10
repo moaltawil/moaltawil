@@ -26,18 +26,18 @@
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3oB5uDih-WM&t=609s"><img width="140px" src="https://i9.ytimg.com/vi/3oB5uDih-WM/maxresdefault.jpg?v=640bab87&sqp=CPz7i6QG&rs=AOn4CLDyozEkQQEsq5HkWqL20symN-FVsA"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">S-DES مقدمة في التشفير - شرح خوارزمية</a><br/>11 Mar 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s"><img width="140px" src="https://i9.ytimg.com/vi/iCEOvUfHKH0/mqdefault.jpg?v=63cc50f8&sqp=CKj-i6QG&rs=AOn4CLAgNLX4tP_lWWvRFb8jmctR1pyFUA"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3oB5uDih-WM&t=609s"><img width="140px" src="https://i9.ytimg.com/vi/3oB5uDih-WM/mqdefault.jpg?v=640bab87&sqp=CPCfkqQG&rs=AOn4CLA0ttUZKrbzXgsEzPdl-ltNGH1cnw"></a></td>
+<td><a href="https://youtu.be/3oB5uDih-WM">S-DES مقدمة في التشفير - شرح خوارزمية</a><br/>11 Mar 2023</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s"><img width="140px" src="https://i9.ytimg.com/vi/iCEOvUfHKH0/mqdefault.jpg?v=63cc50f8&sqp=CPCfkqQG&rs=AOn4CLCWrEzeiD4O3mSuxpyt36dEAjkVAQ"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s">مقدمة في قواعد البيانات (عملي) - المحاضرة الخامسة</a><br/>21 Jan 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s"><img width="140px" src="https://i9.ytimg.com/vi_webp/YKE8rq_j-X8/mqdefault.webp?v=63bc3bc7&sqp=CNSAjKQG&rs=AOn4CLDm3kkHCgycbkzCZYDLYYlzxO9NXw"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s"><img width="140px" src="https://i9.ytimg.com/vi_webp/YKE8rq_j-X8/mqdefault.webp?v=63bc3bc7&sqp=CJyikqQG&rs=AOn4CLBUBwv9TnE46PrH2Th96pS5MActKw"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s">مقدمة في قواعد البيانات (عملي) - المحاضرة الرابعة
 </a><br/>9 Jan 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s"><img width="140px" src="https://i9.ytimg.com/vi/zrNLuESc3wM/mqdefault.jpg?v=63b73b05&sqp=CKyFjKQG&rs=AOn4CLB8sPaUuonByjcJaDHkYYGV7nxH1w"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gU7b5Vgnalw">ماهو الطب الشرعي الرقمي ؟
+<tr><td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s"><img width="140px" src="https://i9.ytimg.com/vi/zrNLuESc3wM/mqdefault.jpg?v=63b73b05&sqp=CJyikqQG&rs=AOn4CLCbjh27M0uWaRz80zIhrBuTZUC5rA"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s">ماهو الطب الشرعي الرقمي ؟
 </a><br/>6 Jan 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Yage-f4BsV8&t=12s"><img width="140px" src="https://i9.ytimg.com/vi/Yage-f4BsV8/mqdefault.jpg?v=63a1c062&sqp=CKyFjKQG&rs=AOn4CLCGYfVZppIEvN__twA1JRA2jFdklw"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ecM9n7A_pY">WinHex التحقيق الجنائي الرقمي (الطب الشرعي) - واسترجاع الملفات المحذوفة باستخدام
+<tr><td><a href="https://www.youtube.com/watch?v=Yage-f4BsV8&t=12s"><img width="140px" src="https://i9.ytimg.com/vi/Yage-f4BsV8/mqdefault.jpg?v=63a1c062&sqp=CJyikqQG&rs=AOn4CLAUwTqnUAwcjX-sRKee7ZkpSZh5RA"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Yage-f4BsV8&t=12s">WinHex التحقيق الجنائي الرقمي (الطب الشرعي) - واسترجاع الملفات المحذوفة باستخدام
 </a><br/>20 Dec 2022</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
