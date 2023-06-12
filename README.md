@@ -28,9 +28,9 @@
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=3oB5uDih-WM&t=609s"><img width="140px" src="https://github.com/moaltawil/Dart-Course/assets/110051364/35b5b1fe-6131-4966-a1e2-86f4a7d9b3f0"></a></td>
 <td><a href="https://youtu.be/3oB5uDih-WM">S-DES مقدمة في التشفير - شرح خوارزمية</a><br/>11 Mar 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s"><img width="140px" src="https://i9.ytimg.com/vi/iCEOvUfHKH0/mqdefault.jpg?v=63cc50f8&sqp=CPCfkqQG&rs=AOn4CLCWrEzeiD4O3mSuxpyt36dEAjkVAQ"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s"><img width="140px" src="https://github.com/moaltawil/Dart-Course/assets/110051364/d6706c8b-3837-41a8-a7cf-f6b1cc6a6747"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iCEOvUfHKH0&t=58s">مقدمة في قواعد البيانات (عملي) - المحاضرة الخامسة</a><br/>21 Jan 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s"><img width="140px" src="https://i9.ytimg.com/vi_webp/YKE8rq_j-X8/mqdefault.webp?v=63bc3bc7&sqp=CJyikqQG&rs=AOn4CLBUBwv9TnE46PrH2Th96pS5MActKw"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s"><img width="140px" src="https://github.com/moaltawil/Dart-Course/assets/110051364/31cec7c3-8f4e-4ff1-ad02-a42839d6c4d0"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s">مقدمة في قواعد البيانات (عملي) - المحاضرة الرابعة
 </a><br/>9 Jan 2023</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s"><img width="140px" src="https://i9.ytimg.com/vi/zrNLuESc3wM/mqdefault.jpg?v=63b73b05&sqp=CJyikqQG&rs=AOn4CLCbjh27M0uWaRz80zIhrBuTZUC5rA"></a></td>
