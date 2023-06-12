@@ -33,10 +33,10 @@
 <tr><td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s"><img width="140px" src="https://github.com/moaltawil/Dart-Course/assets/110051364/31cec7c3-8f4e-4ff1-ad02-a42839d6c4d0"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YKE8rq_j-X8&t=27s">مقدمة في قواعد البيانات (عملي) - المحاضرة الرابعة
 </a><br/>9 Jan 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s"><img width="140px" src="https://i9.ytimg.com/vi/zrNLuESc3wM/mqdefault.jpg?v=63b73b05&sqp=CJyikqQG&rs=AOn4CLCbjh27M0uWaRz80zIhrBuTZUC5rA"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s"><img width="140px" src="https://github.com/moaltawil/Dart-Course/assets/110051364/ed828341-d8fe-4b46-9b0b-69d8e992739b"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zrNLuESc3wM&t=5s">ماهو الطب الشرعي الرقمي ؟
 </a><br/>6 Jan 2023</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Yage-f4BsV8&t=12s"><img width="140px" src="https://i9.ytimg.com/vi/Yage-f4BsV8/mqdefault.jpg?v=63a1c062&sqp=CJyikqQG&rs=AOn4CLAUwTqnUAwcjX-sRKee7ZkpSZh5RA"></a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=Yage-f4BsV8&t=12s"><img width="140px" src="https://github.com/moaltawil/Dart-Course/assets/110051364/9525f968-f456-40f5-b93e-34754f20e6dc"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Yage-f4BsV8&t=12s">WinHex التحقيق الجنائي الرقمي (الطب الشرعي) - واسترجاع الملفات المحذوفة باستخدام
 </a><br/>20 Dec 2022</td></tr>
 <!-- YOUTUBE:END -->
